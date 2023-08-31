@@ -37,6 +37,7 @@ After using `npm i`, the database can be created using the seed.js file by runni
 
 ## VIDEO
 
+https://drive.google.com/file/d/1FI0tUMslwvWq1zp4nimIzgJF1eRUAljs/view
 
 
 ## Credits
